@@ -2,6 +2,7 @@
 In this command, we will use a program that asks the user to enter a speed of up to 100.0 km/h. on the base Based on the entered speed, the program should calculate and return the acceleration the robot is in according to the following table:
 
 Speed (S) V=Gear
+
 0 < S < 10,0 1
 10,0 <= S < 30,0 2
 30,0 <= S < 60,0 3
