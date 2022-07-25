@@ -18,8 +18,17 @@ Speed (S) V=Gear
 
 
 S >= 80,0 5
+
+
+
 S == 0 Neutral
+
+
+
 S < 0 R (reverse)
+
+
+
 
 The program should prompt the user to input 10 times, and after 10 times the average input speed should be calculated and printed.
 
